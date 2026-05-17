@@ -1,4 +1,4 @@
-# 🗺️ Nusantara Cluster Insights: Indonesia Socio-Economic Clustering
+# 🗺️ Indonesia Socio-Economic Clustering 2021
 
 This repository contains an unsupervised machine learning project implementing the K-Means Clustering algorithm. This project explores the socio-economic diversity across Indonesia’s regions by applying K-Means Clustering to group areas with similar development characteristics. Using 2021 data from Badan Pusat Statistik (BPS), the analysis considers key indicators such as poverty rate, regional GDP, life expectancy, average years of schooling, and expenditure per capita at both provincial and city/regency levels. The project integrates geospatial visualization through an interactive map of Indonesia to provide clear regional development insights.
 
