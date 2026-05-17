@@ -19,8 +19,6 @@ This project aims to:
 
 The dataset contains the following socio-economic indicators from Badan Pusat Statistik (BPS) 2021:
 
-The dataset contains the following socio-economic indicators from Badan Pusat Statistik (BPS) 2021:
-
 | Feature Name                  | Description                                                                          | Type      |
 |-------------------------------|--------------------------------------------------------------------------------------|-----------|
 | `provinsi`                    | Name of the province in Indonesia                                                    | Categorical|
@@ -69,5 +67,3 @@ You can access similar official data repositories and statistics through the lin
 🔗 [Badan Pusat Statistik (BPS) Indonesia](https://www.bps.go.id/)
 
 We would like to acknowledge and express gratitude to Badan Pusat Statistik for maintaining public availability of national development indicators for scientific research and analysis.
-
----
